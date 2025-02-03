@@ -1,11 +1,9 @@
 <template>
   <router-view />
-
 </template>
 
-<script>
-export default {
-} 
+<script setup>
+const a = 1;
 </script>
 
 <style>

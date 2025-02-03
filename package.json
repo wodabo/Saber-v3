@@ -36,6 +36,16 @@
     "unplugin-auto-import": "^0.11.2",
     "vite": "^5.2.12",
     "vite-plugin-compression": "^0.5.1",
-    "vite-plugin-vue-setup-extend": "^0.4.0"
+    "vite-plugin-vue-setup-extend": "^0.4.0",
+    "@typescript-eslint/eslint-plugin": "^5.60.0",
+    "@typescript-eslint/parser": "^5.60.0",
+    "@vitejs/plugin-vue-jsx": "^3.0.1",
+    "@vue/eslint-config-prettier": "^7.1.0",
+    "@vue/eslint-config-typescript": "^11.0.3",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.43.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-vue": "^9.15.1",
+    "vue-eslint-parser": "^9.3.1"
   }
 }

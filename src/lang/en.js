@@ -1,5 +1,5 @@
 export default {
-  title: 'Avue is a framework',
+  title: 'Production Plan System',
   tip: 'tip',
   logoutTip: 'Exit the system, do you want to continue?',
   submitText: 'submit',
@@ -24,30 +24,30 @@ export default {
       key3: 'A',
       text1: 'Total Record Number of Classifications',
       text2: 'Number of attachments Uploaded',
-      text3: 'Comment frequency'
+      text3: 'Comment frequency',
     },
     data2: {
       column1: 'Registration today',
       column2: 'Login today',
       column3: 'Subscription today',
-      column4: 'Todays review'
+      column4: 'Todays review',
     },
     data3: {
       column1: 'Conversion rate（Day 28%）',
       column2: 'Attendance rate（Day 11%）',
-      column3: 'Attendance rate（Day 33%）'
+      column3: 'Attendance rate（Day 33%）',
     },
     data4: {
       column1: 'Error log',
       column2: 'Data display',
       column3: 'Privilege management',
-      column4: 'user management'
+      column4: 'user management',
     },
     table: {
       rw: 'Work Tasks',
       nr: 'Work content',
       sj: 'Working hours',
-    }
+    },
   },
   route: {
     setting: 'setting',
@@ -72,7 +72,7 @@ export default {
     error: 'error',
     test: 'test',
     out: 'out',
-    about: 'about'
+    about: 'about',
   },
   login: {
     title: 'Login ',
@@ -105,12 +105,12 @@ export default {
     language: 'language',
     notice: 'notice',
     theme: 'theme',
-    color: 'color'
+    color: 'color',
   },
   tagsView: {
     search: 'Search',
     menu: 'menu',
     closeOthers: 'Close Others',
-    closeAll: 'Close All'
-  }
-}
+    closeAll: 'Close All',
+  },
+};
